@@ -68,7 +68,7 @@
 
 2. 权限管理基于ruoyi-vue系统开发，Mqtt消息服务器使用EMQX5.0开源版
 
-* [开源版本在线演示](http://101.33.237.12/)
+
 * [商业版本在线演示](https://iot.fastbee.cn/)
 * [项目使用文档](https://fastbee.cn/doc/)
 * [若依权限管理系统文档](http://doc.ruoyi.vip/ruoyi-vue/)
