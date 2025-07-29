@@ -51,7 +51,7 @@
 
 
 ### 五、商用授权
-项目采用AGPL3协议，可用于个人学习和使用，商业用途需要赞助项目，获得授权，并提供商业版本源码、可视化平台和移动端源码。赞助过的用户请下载商业版本源码。
+项目采用AGPL3协议，可用于个人学习和使用，商业用途需要赞助项目，获得授权。
 - [授权详情>>](https://fastbee.cn/doc/pages/sponsor/) &nbsp; [商业版本源码>>](https://fastbee.cn/doc/pages/sponsor/)
 - [移动端源码>>](https://gitee.com/beecue/fastbee-app) &nbsp; [可视化平台源码>>](https://fastbee.cn/doc/pages/sponsor/)
 - [硬件SDK源码>>](https://gitee.com/beecue/fastbee-sdk) 
@@ -66,7 +66,7 @@
 ### 七、其他
 1. QQ交流群：&#x1F680;946029159(已满)    &#x1F680;1073236354  &#x1F680;720136372
 
-2. 权限管理基于ruoyi-vue系统开发，Mqtt消息服务器使用EMQX5.0开源版
+2. 权限管理基于ruoyi-vue系统开发
 
 
 * [商业版本在线演示](https://iot.fastbee.cn/)
