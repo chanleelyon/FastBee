@@ -51,12 +51,10 @@
 
 
 ### 五、商用授权
-项目采用AGPL3协议，可用于个人学习和使用，商业用途需要赞助项目，获得授权。
-- [授权详情>>](https://fastbee.cn/doc/pages/sponsor/) &nbsp; [商业版本源码>>](https://fastbee.cn/doc/pages/sponsor/)
-- [移动端源码>>](https://gitee.com/beecue/fastbee-app) &nbsp; [可视化平台源码>>](https://fastbee.cn/doc/pages/sponsor/)
+开源版本采用AGPL3协议，可用于个人学习和使用，商业用途需要赞助项目，获得授权。二开项目同样遵守AGPL3.0协议进行开源，可以向原作者申请授权。
+- [商业版本授权>>](https://fastbee.cn/doc/pages/sponsor/) &nbsp; 
+- [移动端源码>>](https://gitee.com/beecue/fastbee-app) &nbsp; 
 - [硬件SDK源码>>](https://gitee.com/beecue/fastbee-sdk) 
-- 二开项目同样遵守AGPL3.0协议进行开源，可以向原作者申请授权
-- 如果商业项目想转闭源，可以向原作者申请或者购买闭源授权
 
 ### 六、贡献代码
 - [贡献者指南>>](./doc/贡献者指南.md)
